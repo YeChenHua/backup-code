@@ -23,7 +23,8 @@ git commit -m "Auto backup on %mydate%_%mytime%"
 git push
 
 :: （可選）上傳後自動開啟 GitHub 頁面
-start https://github.com/YeChenHua/vsCode-backup
+start https://github.com/YeChenHua/backup-code
+
 
 echo.
 echo  專案已成功備份到 GitHub！
